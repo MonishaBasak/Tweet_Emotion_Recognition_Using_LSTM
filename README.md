@@ -4,4 +4,4 @@ we are going to create a recurrent neural network and train it on a tweet emotio
 - Using a Tokenizer in TensorFlow
 - Padding and Truncating Sequences
 - Creating and Training a Recurrent Neural Network
-- Using NLP and Deep Learning to perform Text Classification"
+- Using NLP and Deep Learning to perform Text Classification
